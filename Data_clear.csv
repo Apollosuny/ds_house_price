@@ -1,0 +1,701 @@
+,district,ward,type_of_housing,legal_paper,num_floors,num_bed_rooms,squared_meter_area,length_meter,width_meter,price_in_million_per_square_meter
+2,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,10.0,4.0,65.0
+15,Long Biên,Bồ Đề,"Nhà ngõ, hẻm",Đã có sổ,5,4,52.0,12.0,4.2,93.27
+29,Nam Từ Liêm,Tây Mỗ,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,6.6,4.5,60.94
+34,Huyện Thanh Trì,Xã Tả Thanh Oai,"Nhà ngõ, hẻm",Đã có sổ,3,2,42.0,11.0,4.0,29.76
+37,Huyện Thanh Trì,Xã Tam Hiệp,"Nhà ngõ, hẻm",Đã có sổ,4,4,43.0,11.0,4.0,50.0
+41,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,4,4,38.0,10.0,3.0,68.42
+68,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,4,30.0,9.0,3.4,82.67
+70,Hai Bà Trưng,Thanh Lương,"Nhà ngõ, hẻm",Đã có sổ,4,2,18.0,6.0,3.2,105.56
+71,Ba Đình,Ngọc Hà,"Nhà ngõ, hẻm",Đã có sổ,5,5,33.0,11.0,3.0,136.36
+76,Hoàng Mai,Hoàng Văn Thụ,"Nhà ngõ, hẻm",Đã có sổ,5,3,32.0,11.0,3.2,89.06
+78,Hoàng Mai,Hoàng Văn Thụ,"Nhà ngõ, hẻm",Đã có sổ,4,3,20.0,6.5,3.0,97.5
+85,Đống Đa,Kim Liên,"Nhà ngõ, hẻm",Đã có sổ,3,3,28.0,7.0,3.9,100.0
+96,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,3,2,37.0,10.0,3.7,53.51
+104,Hoàng Mai,Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",Đã có sổ,3,3,21.0,7.0,3.0,100.0
+111,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,9.0,4.0,71.43
+120,Ba Đình,Kim Mã,"Nhà ngõ, hẻm",Đã có sổ,3,2,30.0,9.0,3.2,60.0
+128,Hoàng Mai,Hoàng Văn Thụ,"Nhà ngõ, hẻm",Đã có sổ,5,3,25.0,7.0,3.6,96.0
+137,Hà Đông,Phú La,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,40.0,10.0,4.0,50.0
+138,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,4,3,33.0,9.5,3.5,65.15
+151,Bắc Từ Liêm,Cổ Nhuế 1,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,45.0,9.0,4.0,64.44
+164,Huyện Thanh Trì,Xã Tam Hiệp,"Nhà ngõ, hẻm",Đã có sổ,3,3,36.0,12.0,3.0,55.22
+171,Hai Bà Trưng,Thanh Lương,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,8.75,4.0,68.57
+183,Hà Đông,Văn Quán,"Nhà ngõ, hẻm",Đã có sổ,4,4,60.0,15.0,4.0,83.33
+186,Hoàng Mai,Hoàng Văn Thụ,"Nhà ngõ, hẻm",Đã có sổ,5,3,36.0,9.0,4.0,76.39
+219,Hà Đông,Văn Quán,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,37.0,11.0,3.7,116.22
+229,Hai Bà Trưng,Bạch Đằng,"Nhà ngõ, hẻm",Đã có sổ,3,2,23.0,8.0,3.0,82.61
+234,Thanh Xuân,Nhân Chính,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,40.0,4.0,4.0,140.0
+249,Cầu Giấy,Dịch Vọng,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,47.0,11.7,4.0,102.13
+254,Cầu Giấy,Nghĩa Đô,"Nhà ngõ, hẻm",Đã có sổ,4,4,43.0,11.0,4.0,90.7
+260,Cầu Giấy,Quan Hoa,"Nhà ngõ, hẻm",Đã có sổ,4,4,56.0,15.0,4.0,81.25
+266,Long Biên,Thạch Bàn,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,7.5,4.0,75.0
+279,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,10.0,3.2,95.0
+280,Long Biên,Thạch Bàn,"Nhà ngõ, hẻm",Đã có sổ,5,4,37.0,9.0,4.0,67.57
+297,Đống Đa,Nam Đồng,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,7.0,4.5,71.67
+305,Đống Đa,Nam Đồng,"Nhà ngõ, hẻm",Đã có sổ,3,2,24.0,6.0,4.0,93.75
+313,Hoàng Mai,Tương Mai,"Nhà ngõ, hẻm",Đã có sổ,5,4,48.0,12.0,4.0,56.25
+321,Huyện Hoài Đức,Xã Vân Canh,"Nhà ngõ, hẻm",Đã có sổ,3,2,33.0,9.0,4.0,46.61
+329,Long Biên,Thạch Bàn,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,10.0,3.5,68.0
+332,Hai Bà Trưng,Thanh Nhàn,"Nhà ngõ, hẻm",Đã có sổ,4,4,55.0,10.0,6.0,160.0
+333,Đống Đa,Khâm Thiên,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,7.0,5.0,85.71
+335,Hà Đông,Dương Nội,"Nhà ngõ, hẻm",Đã có sổ,3,2,30.0,8.0,4.0,40.27
+347,Hai Bà Trưng,Đồng Tâm,"Nhà ngõ, hẻm",Đã có sổ,5,4,56.0,10.0,6.0,160.71
+348,Nam Từ Liêm,Xuân Phương,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,7.5,4.0,66.13
+349,Đống Đa,Phương Mai,"Nhà ngõ, hẻm",Đã có sổ,4,4,63.0,10.0,6.3,87.3
+371,Hà Đông,Kiến Hưng,"Nhà ngõ, hẻm",Đã có sổ,5,4,38.0,10.0,4.0,113.16
+377,Cầu Giấy,Mai Dịch,"Nhà ngõ, hẻm",Đã có sổ,5,3,40.0,8.0,5.0,102.5
+381,Hoàng Mai,Thịnh Liệt,"Nhà mặt phố, mặt tiền",Đã có sổ,3,4,57.0,8.14,7.0,63.16
+395,Hai Bà Trưng,Bạch Đằng,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,56.0,14.0,4.0,58.93
+396,Bắc Từ Liêm,Đông Ngạc,"Nhà ngõ, hẻm",Đã có sổ,4,5,30.0,5.6,5.5,77.33
+399,Cầu Giấy,Mai Dịch,"Nhà ngõ, hẻm",Đã có sổ,5,3,44.0,9.5,4.6,79.55
+411,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,8.0,4.0,79.69
+415,Đống Đa,Trung Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,3,34.0,8.0,4.0,111.76
+416,Thanh Xuân,Khương Mai,"Nhà ngõ, hẻm",Đã có sổ,5,4,49.0,12.25,4.0,75.51
+472,Cầu Giấy,Quan Hoa,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,41.0,10.0,4.1,112.2
+477,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,9.0,4.0,95.71
+490,Đống Đa,Ô Chợ Dừa,"Nhà ngõ, hẻm",Đã có sổ,5,3,34.0,9.0,4.0,97.06
+510,Hà Đông,Văn Quán,"Nhà ngõ, hẻm",Đã có sổ,4,4,43.0,12.0,4.0,60.47
+516,Bắc Từ Liêm,Cổ Nhuế 2,"Nhà ngõ, hẻm",Đã có sổ,4,4,47.0,11.0,4.2,63.83
+523,Long Biên,Ngọc Thụy,"Nhà ngõ, hẻm",Đã có sổ,5,3,36.0,9.0,4.0,88.89
+530,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,4,3,33.0,8.0,4.0,65.15
+539,Đống Đa,Khâm Thiên,"Nhà ngõ, hẻm",Đã có sổ,4,3,22.0,4.2,5.0,113.64
+551,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,4,4,31.0,7.0,4.6,66.13
+582,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,9.0,3.46,65.14
+591,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,3,3,35.0,10.0,3.5,45.71
+596,Hoàng Mai,Lĩnh Nam,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,9.0,3.0,75.0
+615,Hoàng Mai,Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",Đã có sổ,6,5,42.0,10.0,4.0,142.86
+638,Hà Đông,Kiến Hưng,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,10.0,3.0,60.0
+649,Hoàng Mai,Tân Mai,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,35.0,7.0,5.0,88.57
+652,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,8.0,3.7,62.86
+664,Cầu Giấy,Nghĩa Đô,"Nhà ngõ, hẻm",Đã có sổ,6,4,38.0,10.0,3.6,92.11
+670,Thanh Xuân,Kim Giang,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,8.0,5.0,112.5
+675,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,9.0,4.0,140.0
+676,Ba Đình,Ngọc Khánh,"Nhà ngõ, hẻm",Đã có sổ,4,4,34.0,10.6,3.2,94.12
+684,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,4,25.0,8.0,3.2,118.0
+687,Hai Bà Trưng,Thanh Nhàn,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,9.0,5.0,103.33
+710,Đống Đa,Láng Thượng,"Nhà ngõ, hẻm",Đã có sổ,5,3,32.0,6.0,5.3,100.0
+726,Đống Đa,Trung Liệt,"Nhà ngõ, hẻm",Đã có sổ,3,2,35.0,8.0,4.0,88.57
+731,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,3,4,47.0,10.0,4.5,78.72
+734,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,4,4,38.0,9.0,4.0,107.89
+746,Ba Đình,Ngọc Hà,"Nhà ngõ, hẻm",Đã có sổ,3,2,21.0,6.0,3.5,78.57
+748,Long Biên,Long Biên,"Nhà ngõ, hẻm",Giấy tờ khác,4,3,52.0,10.5,5.0,54.81
+750,Long Biên,Long Biên,"Nhà mặt phố, mặt tiền",Đang chờ sổ,5,4,30.0,5.0,6.0,91.67
+751,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,36.0,10.0,3.6,40.28
+754,Hai Bà Trưng,Thanh Nhàn,"Nhà ngõ, hẻm",Đã có sổ,3,2,25.0,5.0,5.0,79.2
+770,Hoàn Kiếm,Chương Dương,"Nhà ngõ, hẻm",Đã có sổ,4,4,66.0,11.0,6.0,75.76
+780,Nam Từ Liêm,Phương Canh,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,6.2,5.0,83.87
+783,Đống Đa,Ngã Tư Sở,"Nhà ngõ, hẻm",Đã có sổ,6,3,36.0,8.0,4.2,161.11
+787,Nam Từ Liêm,Phương Canh,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,9.0,3.5,74.19
+801,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,39.0,10.0,3.9,42.31
+805,Cầu Giấy,Nghĩa Đô,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,10.0,4.0,87.5
+818,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,39.8,6.7,6.0,41.54
+822,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,37.0,10.2,3.6,37.84
+829,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,9.0,4.5,75.71
+832,Đống Đa,Ngã Tư Sở,"Nhà ngõ, hẻm",Đã có sổ,5,4,30.0,10.0,3.5,110.0
+836,Nam Từ Liêm,Phương Canh,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,7.8,4.0,79.03
+841,Bắc Từ Liêm,Thượng Cát,"Nhà ngõ, hẻm",Đã có sổ,3,3,32.0,8.0,5.0,45.31
+852,Đống Đa,Ô Chợ Dừa,"Nhà ngõ, hẻm",Đã có sổ,4,4,42.0,14.0,3.0,76.19
+862,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.0,10.0,3.4,79.41
+871,Hà Đông,Phú Lương,"Nhà ngõ, hẻm",Đã có sổ,4,4,37.0,10.0,3.7,45.68
+874,Hai Bà Trưng,Trương Định,"Nhà ngõ, hẻm",Đã có sổ,5,4,45.0,10.0,4.5,118.89
+880,Hà Đông,Văn Quán,"Nhà ngõ, hẻm",Đã có sổ,4,2,30.0,9.0,3.5,78.33
+915,Hà Đông,Nguyễn Trãi,"Nhà ngõ, hẻm",Đã có sổ,3,4,36.0,7.0,5.0,76.39
+920,Hoàng Mai,Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,35.0,10.0,3.5,105.71
+934,Hai Bà Trưng,Trương Định,"Nhà ngõ, hẻm",Đã có sổ,5,4,48.0,11.0,4.5,110.42
+959,Ba Đình,Đội Cấn,"Nhà ngõ, hẻm",Đã có sổ,4,4,54.0,13.0,4.0,81.48
+967,Long Biên,Thượng Thanh,"Nhà ngõ, hẻm",Đã có sổ,5,3,31.0,9.0,3.0,63.87
+992,Hoàng Mai,Tân Mai,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,10.0,4.0,70.0
+1004,Ba Đình,Ngọc Hà,"Nhà ngõ, hẻm",Đã có sổ,5,3,42.0,10.0,4.0,123.81
+1008,Nam Từ Liêm,Phú Đô,"Nhà ngõ, hẻm",Đã có sổ,5,3,33.0,8.0,4.0,84.85
+1019,Nam Từ Liêm,Mỹ Đình 1,"Nhà ngõ, hẻm",Đã có sổ,5,4,47.0,9.4,5.0,63.83
+1060,Hoàng Mai,Đại Kim,"Nhà ngõ, hẻm",Đã có sổ,5,4,39.0,9.0,4.5,111.54
+1110,Bắc Từ Liêm,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,3,38.0,11.0,3.5,94.74
+1112,Thanh Xuân,Thanh Xuân Trung,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,5.0,7.0,77.14
+1132,Đống Đa,Phương Mai,"Nhà ngõ, hẻm",Đã có sổ,3,4,35.0,8.5,4.1,97.14
+1189,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,5,34.0,8.0,4.0,92.65
+1212,Hoàng Mai,Giáp Bát,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,9.0,3.6,80.0
+1225,Long Biên,Bồ Đề,"Nhà ngõ, hẻm",Đã có sổ,6,5,47.0,9.0,5.0,117.02
+1258,Long Biên,Thạch Bàn,"Nhà ngõ, hẻm",Đã có sổ,5,4,41.0,10.0,4.1,65.85
+1268,Hoàng Mai,Tân Mai,"Nhà ngõ, hẻm",Đã có sổ,5,3,40.0,10.0,4.0,70.0
+1271,Huyện Hoài Đức,Xã La Phù,"Nhà ngõ, hẻm",Đã có sổ,3,2,30.0,8.0,4.0,40.33
+1276,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,5,4,45.0,10.1,4.0,157.78
+1282,Hà Đông,Phú La,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,11.0,4.0,75.0
+1286,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,5,50.0,10.0,5.0,93.0
+1287,Long Biên,Bồ Đề,"Nhà ngõ, hẻm",Đã có sổ,6,3,30.0,10.0,3.5,110.0
+1289,Long Biên,Bồ Đề,"Nhà ngõ, hẻm",Đã có sổ,4,4,57.0,15.0,4.0,77.19
+1292,Hoàng Mai,Lĩnh Nam,"Nhà ngõ, hẻm",Đã có sổ,4,4,60.0,10.0,6.0,55.83
+1307,Huyện Gia Lâm,Xã Đông Dư,"Nhà ngõ, hẻm",Đã có sổ,3,2,30.0,6.0,5.0,50.33
+1324,Long Biên,Ngọc Thụy,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,50.0,13.0,4.0,60.0
+1336,Đống Đa,Thịnh Quang,"Nhà ngõ, hẻm",Đã có sổ,5,5,48.0,8.0,6.0,93.75
+1344,Thanh Xuân,Thượng Đình,"Nhà ngõ, hẻm",Đã có sổ,4,4,36.0,9.0,4.1,91.67
+1351,Hai Bà Trưng,Thanh Nhàn,"Nhà ngõ, hẻm",Đã có sổ,5,4,28.0,7.8,3.6,100.0
+1360,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,4,4,31.0,7.0,4.6,66.13
+1391,Nam Từ Liêm,Xuân Phương,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,34.0,10.0,3.4,70.59
+1398,Hoàng Mai,Giáp Bát,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,8.0,3.5,96.67
+1412,Đống Đa,Cát Linh,"Nhà ngõ, hẻm",Đã có sổ,4,4,75.0,12.0,6.3,77.33
+1414,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,12.0,3.6,40.5
+1418,Tây Hồ,Bưởi,"Nhà ngõ, hẻm",Đã có sổ,5,2,30.0,12.0,3.5,158.33
+1421,Cầu Giấy,Quan Hoa,"Nhà ngõ, hẻm",Đã có sổ,6,4,35.0,9.8,3.6,104.29
+1425,Cầu Giấy,Yên Hoà,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,5.8,6.0,162.86
+1451,Hai Bà Trưng,Trương Định,"Nhà ngõ, hẻm",Đã có sổ,5,5,49.0,8.0,6.5,104.08
+1455,Long Biên,Cự Khối,"Nhà ngõ, hẻm",Đã có sổ,3,3,30.0,6.0,5.0,50.27
+1471,Hai Bà Trưng,Trương Định,"Nhà ngõ, hẻm",Đã có sổ,5,5,49.0,8.0,6.5,104.08
+1520,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.0,10.0,3.4,79.41
+1545,Long Biên,Ngọc Lâm,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,73.0,14.0,5.4,58.9
+1572,Cầu Giấy,Quan Hoa,"Nhà ngõ, hẻm",Đã có sổ,5,3,31.0,8.0,4.0,129.03
+1575,Đống Đa,Phương Liên,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,11.0,4.0,111.11
+1589,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,40.0,6.7,6.0,40.5
+1591,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,4,4,44.0,11.0,4.0,67.05
+1602,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,37.0,10.0,3.7,37.84
+1610,Hoàng Mai,Tân Mai,"Nhà ngõ, hẻm",Giấy tờ khác,4,3,33.0,8.0,3.7,112.12
+1611,Ba Đình,Kim Mã,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,46.0,9.0,5.0,108.7
+1612,Hoàng Mai,Thịnh Liệt,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,35.0,10.0,3.5,100.0
+1697,Long Biên,Bồ Đề,"Nhà ngõ, hẻm",Đã có sổ,4,4,60.0,4.5,4.5,141.67
+1705,Long Biên,Gia Thụy,"Nhà ngõ, hẻm",Đã có sổ,4,4,70.0,14.0,5.0,107.14
+1706,Hai Bà Trưng,Bạch Đằng,"Nhà mặt phố, mặt tiền",Đã có sổ,3,3,23.0,8.0,4.6,108.7
+1733,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,4,4,34.0,10.0,3.5,58.24
+1754,Hai Bà Trưng,Trương Định,"Nhà mặt phố, mặt tiền",Đã có sổ,5,2,30.0,5.0,5.8,95.0
+1802,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,4,4,58.0,10.0,6.0,55.17
+1827,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,5,4,47.0,14.0,3.3,65.96
+1845,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,4.0,4.0,75.56
+1853,Hà Đông,La Khê,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,40.0,10.0,4.0,92.75
+1864,Huyện Hoài Đức,Xã Đông La,"Nhà ngõ, hẻm",Đã có sổ,3,3,32.0,8.0,4.0,41.56
+1867,Hà Đông,La Khê,Nhà phố liền kề,Đã có sổ,5,4,57.0,13.0,4.0,114.04
+1897,Hoàng Mai,Tân Mai,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,7.0,4.8,77.14
+1903,Bắc Từ Liêm,Xuân Đỉnh,"Nhà ngõ, hẻm",Đã có sổ,4,4,52.0,13.0,3.6,75.96
+1921,Hà Đông,Phúc La,"Nhà ngõ, hẻm",Đã có sổ,4,4,38.0,10.0,3.4,76.32
+1933,Đống Đa,Nam Đồng,"Nhà ngõ, hẻm",Đã có sổ,4,3,25.0,6.0,5.0,98.0
+1961,Hà Đông,Văn Quán,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.0,9.0,4.0,73.53
+1994,Nam Từ Liêm,Xuân Phương,"Nhà ngõ, hẻm",Đã có sổ,4,3,33.0,8.0,4.0,72.73
+2028,Thanh Xuân,Hạ Đình,"Nhà ngõ, hẻm",Đã có sổ,5,3,40.0,10.0,4.0,91.25
+2063,Hai Bà Trưng,Vĩnh Tuy,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,50.0,10.0,5.0,93.0
+2101,Nam Từ Liêm,Xuân Phương,"Nhà ngõ, hẻm",Đã có sổ,4,4,34.0,6.09,5.58,77.35
+2117,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,3,72.0,4.0,4.0,53.47
+2165,Đống Đa,Ô Chợ Dừa,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,9.5,3.8,94.29
+2171,Ba Đình,Vĩnh Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,4,60.0,13.0,4.0,115.0
+2186,Đống Đa,Ô Chợ Dừa,"Nhà ngõ, hẻm",Đã có sổ,3,4,60.0,15.0,4.0,41.67
+2213,Hà Đông,Nguyễn Trãi,"Nhà ngõ, hẻm",Đã có sổ,3,3,33.0,10.0,3.3,81.82
+2222,Cầu Giấy,Mai Dịch,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,9.0,4.0,91.43
+2228,Hai Bà Trưng,Trương Định,"Nhà ngõ, hẻm",Đã có sổ,5,5,50.0,10.0,5.0,87.0
+2231,Huyện Hoài Đức,Xã La Phù,"Nhà ngõ, hẻm",Đã có sổ,4,3,33.0,8.0,4.0,47.88
+2235,Tây Hồ,Yên Phụ,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,24.0,8.0,4.0,112.5
+2244,Hai Bà Trưng,Thanh Lương,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,10.0,3.0,102.86
+2248,Huyện Thanh Trì,Xã Thanh Liệt,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,30.0,10.0,3.0,76.67
+2254,Hoàng Mai,Thịnh Liệt,"Nhà ngõ, hẻm",Đã có sổ,4,4,42.0,12.0,3.5,67.86
+2288,Hai Bà Trưng,Vĩnh Tuy,"Nhà ngõ, hẻm",Đã có sổ,5,3,29.0,9.0,3.5,100.0
+2295,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,10.0,3.5,82.86
+2333,Đống Đa,Hàng Bột,"Nhà ngõ, hẻm",Đã có sổ,3,3,40.0,10.0,3.8,83.75
+2385,Long Biên,Thạch Bàn,"Nhà ngõ, hẻm",Đã có sổ,5,4,41.0,6.0,7.0,63.41
+2392,Đống Đa,Láng Thượng,"Nhà ngõ, hẻm",Đã có sổ,5,5,44.0,11.0,4.0,95.45
+2401,Bắc Từ Liêm,Xuân Đỉnh,"Nhà ngõ, hẻm",Đã có sổ,5,4,37.0,11.0,3.4,70.27
+2402,Long Biên,Ngọc Thụy,"Nhà ngõ, hẻm",Đã có sổ,4,4,48.0,12.0,4.0,81.25
+2408,Hà Đông,Mộ Lao,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,10.0,3.5,85.71
+2414,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,9.0,4.0,84.29
+2419,Hoàng Mai,Đại Kim,"Nhà ngõ, hẻm",Đã có sổ,5,3,36.0,11.5,3.4,70.83
+2437,Long Biên,Ngọc Thụy,Nhà phố liền kề,Đã có sổ,5,3,32.0,9.0,3.5,84.38
+2456,Hoàng Mai,Trần Phú,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,10.0,3.5,97.14
+2473,Hà Đông,Văn Quán,Nhà phố liền kề,Đã có sổ,3,4,45.0,12.0,4.0,122.22
+2506,Đống Đa,Phương Liên,"Nhà ngõ, hẻm",Đã có sổ,4,3,25.0,5.0,5.0,100.0
+2511,Thanh Xuân,Khương Mai,"Nhà mặt phố, mặt tiền",Đã có sổ,6,4,45.0,9.0,5.0,122.22
+2513,Hà Đông,Mộ Lao,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,7.0,4.0,73.33
+2532,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,9.0,3.5,47.74
+2543,Cầu Giấy,Nghĩa Đô,"Nhà ngõ, hẻm",Đã có sổ,5,5,42.0,10.0,4.3,80.95
+2556,Cầu Giấy,Nghĩa Tân,"Nhà ngõ, hẻm",Đã có sổ,4,4,69.0,11.5,6.5,124.64
+2569,Long Biên,Ngọc Thụy,"Nhà ngõ, hẻm",Đã có sổ,4,4,50.0,13.0,3.6,78.0
+2576,Hai Bà Trưng,Thanh Nhàn,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,52.0,14.0,4.0,125.0
+2587,Huyện Thanh Trì,Xã Hữu Hoà,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,7.0,4.0,70.97
+2596,Cầu Giấy,Mai Dịch,"Nhà ngõ, hẻm",Đã có sổ,5,5,40.0,10.0,4.0,75.0
+2599,Huyện Thanh Trì,Xã Tả Thanh Oai,"Nhà ngõ, hẻm",Đã có sổ,4,3,39.0,13.0,3.0,110.26
+2622,Long Biên,Cự Khối,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,8.0,4.0,58.33
+2630,Long Biên,Bồ Đề,"Nhà ngõ, hẻm",Đã có sổ,6,4,31.0,8.0,4.0,101.61
+2631,Hà Đông,Mộ Lao,"Nhà ngõ, hẻm",Đã có sổ,4,2,27.0,7.0,4.0,77.78
+2632,Long Biên,Cự Khối,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,8.0,4.0,58.33
+2633,Hà Đông,Vạn Phúc,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,45.0,11.0,4.0,102.22
+2659,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,5,5,35.0,9.0,4.0,85.71
+2687,Huyện Thanh Trì,Xã Tả Thanh Oai,"Nhà ngõ, hẻm",Đã có sổ,5,5,40.0,10.0,4.0,45.0
+2706,Cầu Giấy,Mai Dịch,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,8.0,4.2,91.43
+2721,Thanh Xuân,Hạ Đình,"Nhà ngõ, hẻm",Đã có sổ,5,3,40.0,12.5,3.2,96.25
+2730,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,5,4,43.0,11.0,4.0,89.53
+2748,Đống Đa,Khâm Thiên,"Nhà ngõ, hẻm",Đã có sổ,4,2,24.0,8.0,3.0,95.83
+2750,Cầu Giấy,Nghĩa Đô,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,42.0,8.4,5.0,104.76
+2756,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,3,3,50.0,7.7,6.8,73.0
+2771,Hà Đông,Quang Trung,"Nhà ngõ, hẻm",Đã có sổ,3,3,29.0,8.0,3.9,105.17
+2797,Hai Bà Trưng,Vĩnh Tuy,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,35.0,9.0,4.5,100.0
+2800,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,5,3,34.0,10.0,3.4,64.71
+2807,Nam Từ Liêm,Đại Mỗ,"Nhà ngõ, hẻm",Đã có sổ,3,3,40.0,11.0,3.8,69.5
+2832,Long Biên,Gia Thụy,"Nhà ngõ, hẻm",Đã có sổ,5,3,34.0,9.0,4.0,88.24
+2841,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,3,28.0,7.0,3.4,103.57
+2858,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,4,3,50.0,13.8,4.0,34.0
+2861,Long Biên,Thạch Bàn,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,10.0,3.4,57.14
+2879,Hà Đông,Phúc La,Nhà phố liền kề,Đã có sổ,4,4,50.0,12.0,4.5,116.0
+2888,Cầu Giấy,Mai Dịch,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,45.0,11.0,4.0,133.33
+2896,Hoàng Mai,Mai Động,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,6.0,5.0,103.33
+2932,Hai Bà Trưng,Cầu Dền,"Nhà ngõ, hẻm",Đã có sổ,3,3,46.0,11.0,4.0,68.48
+2935,Long Biên,Long Biên,"Nhà ngõ, hẻm",Giấy tờ khác,4,3,40.0,8.0,5.0,63.75
+2944,Nam Từ Liêm,Mỹ Đình 1,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,36.0,10.5,3.5,98.61
+2947,Đống Đa,Trung Liệt,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,45.0,11.0,4.0,95.56
+2958,Nam Từ Liêm,Mỹ Đình 1,"Nhà ngõ, hẻm",Đã có sổ,3,3,45.0,11.1,4.0,57.78
+2959,Nam Từ Liêm,Trung Văn,"Nhà ngõ, hẻm",Đã có sổ,5,4,36.0,6.0,6.0,90.28
+2969,Cầu Giấy,Nghĩa Tân,"Nhà ngõ, hẻm",Đã có sổ,5,4,39.0,10.0,3.8,120.51
+2972,Bắc Từ Liêm,Phú Diễn,"Nhà mặt phố, mặt tiền",Đã có sổ,3,4,53.0,13.0,4.2,92.45
+2973,Cầu Giấy,Nghĩa Tân,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,46.0,9.2,5.0,143.48
+2979,Cầu Giấy,Dịch Vọng,"Nhà ngõ, hẻm",Đã có sổ,4,5,40.0,8.0,5.0,135.0
+2987,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,4,31.0,9.0,4.2,71.94
+3001,Hoàng Mai,Tương Mai,"Nhà ngõ, hẻm",Đã có sổ,5,3,45.0,10.0,4.5,86.67
+3005,Thanh Xuân,Thanh Xuân Bắc,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,11.0,3.8,69.5
+3011,Đống Đa,Ngã Tư Sở,"Nhà ngõ, hẻm",Đã có sổ,4,4,48.0,7.0,7.0,118.75
+3015,Ba Đình,Đội Cấn,"Nhà ngõ, hẻm",Đã có sổ,5,5,34.0,11.0,3.1,102.94
+3019,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,5,4,45.0,14.0,3.4,84.44
+3029,Hoàng Mai,Giáp Bát,"Nhà ngõ, hẻm",Đã có sổ,4,3,33.0,5.0,6.0,92.42
+3031,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,6.0,5.0,80.0
+3041,Thanh Xuân,Khương Đình,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,35.0,5.99,6.0,85.71
+3044,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,5,50.0,10.0,5.0,92.0
+3051,Cầu Giấy,Nghĩa Tân,"Nhà ngõ, hẻm",Đã có sổ,5,4,45.0,9.0,5.0,88.89
+3063,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,4,2,20.0,7.0,3.0,90.0
+3087,Long Biên,Ngọc Thụy,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,10.0,4.5,64.44
+3089,Nam Từ Liêm,Mỹ Đình 1,"Nhà ngõ, hẻm",Đã có sổ,5,5,52.0,8.7,6.0,51.92
+3121,Long Biên,Long Biên,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,10.0,3.5,52.86
+3129,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,5.0,3.3,78.33
+3162,Hai Bà Trưng,Trương Định,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,45.0,9.0,4.5,93.33
+3164,Hà Đông,Hà Cầu,Nhà phố liền kề,Đã có sổ,5,5,48.0,12.0,4.0,133.33
+3169,Cầu Giấy,Nghĩa Đô,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,9.3,4.3,72.0
+3180,Đống Đa,Ô Chợ Dừa,"Nhà ngõ, hẻm",Đã có sổ,4,3,25.0,5.0,5.0,98.0
+3217,Ba Đình,Vĩnh Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,4,30.0,5.0,6.0,133.33
+3227,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,4,4,38.0,10.0,4.0,75.0
+3230,Nam Từ Liêm,Phương Canh,"Nhà ngõ, hẻm",Đã có sổ,5,3,32.0,6.0,5.0,82.81
+3233,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,10.0,3.5,64.0
+3249,Đống Đa,Ngã Tư Sở,"Nhà ngõ, hẻm",Đã có sổ,4,3,40.0,11.0,3.9,96.25
+3256,Nam Từ Liêm,Xuân Phương,"Nhà ngõ, hẻm",Đã có sổ,4,3,33.0,5.0,6.0,74.75
+3257,Cầu Giấy,Yên Hoà,"Nhà ngõ, hẻm",Đã có sổ,4,4,38.0,11.0,3.0,163.16
+3268,Nam Từ Liêm,Xuân Phương,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,9.0,3.4,76.33
+3281,Đống Đa,Ngã Tư Sở,"Nhà ngõ, hẻm",Đã có sổ,4,3,27.0,8.5,3.5,92.59
+3297,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,4,4,50.0,11.0,4.52,73.0
+3333,Thanh Xuân,Thanh Xuân Trung,"Nhà ngõ, hẻm",Đã có sổ,5,3,38.0,10.0,4.0,86.84
+3338,Huyện Hoài Đức,Xã Vân Canh,"Nhà ngõ, hẻm",Đã có sổ,4,4,32.0,10.17,3.2,31.25
+3352,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.0,7.0,5.0,47.65
+3358,Long Biên,Ngọc Thụy,"Nhà ngõ, hẻm",Đã có sổ,6,4,33.0,8.0,4.5,119.7
+3398,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,9.0,3.5,53.23
+3410,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,3,3,41.0,10.0,4.0,34.88
+3419,Hà Đông,Dương Nội,"Nhà ngõ, hẻm",Đã có sổ,5,4,36.0,10.0,3.6,69.44
+3428,Long Biên,Ngọc Thụy,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,30.0,6.0,4.1,89.33
+3430,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,5,38.0,9.0,4.0,72.89
+3432,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,4,4,43.0,10.0,4.0,65.81
+3436,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,9.0,3.5,56.88
+3448,Tây Hồ,Bưởi,"Nhà ngõ, hẻm",Đã có sổ,6,4,42.0,8.2,5.0,104.76
+3453,Hà Đông,Biên Giang,"Nhà ngõ, hẻm",Đã có sổ,3,3,41.0,13.0,3.5,33.66
+3462,Hoàng Mai,Vĩnh Hưng,"Nhà ngõ, hẻm",Giấy tờ khác,4,3,34.0,12.0,3.0,44.12
+3468,Hoàng Mai,Tân Mai,"Nhà ngõ, hẻm",Đã có sổ,5,3,34.0,10.0,3.4,100.0
+3471,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,32.0,10.0,3.2,50.0
+3481,Hoàng Mai,Hoàng Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,3,34.0,10.0,3.4,100.0
+3499,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,3,3,36.2,9.0,4.1,93.06
+3513,Tây Hồ,Bưởi,"Nhà ngõ, hẻm",Đã có sổ,6,3,45.0,9.0,5.2,102.22
+3515,Tây Hồ,Bưởi,"Nhà ngõ, hẻm",Đã có sổ,4,4,70.0,12.0,5.5,84.29
+3519,Đống Đa,Ngã Tư Sở,"Nhà ngõ, hẻm",Đã có sổ,5,3,32.0,8.0,4.0,120.31
+3528,Hà Đông,Phú La,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,10.2,4.0,82.22
+3529,Ba Đình,Cống Vị,"Nhà ngõ, hẻm",Đã có sổ,4,2,25.0,6.5,4.0,132.0
+3541,Hà Đông,Phú La,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,10.2,4.0,82.22
+3563,Đống Đa,Trung Tự,"Nhà ngõ, hẻm",Đã có sổ,3,3,25.0,6.0,4.0,80.0
+3565,Long Biên,Ngọc Thụy,"Nhà ngõ, hẻm",Đã có sổ,4,3,36.0,12.0,3.3,78.89
+3585,Đống Đa,Láng Thượng,"Nhà ngõ, hẻm",Đã có sổ,4,4,50.0,10.0,5.0,84.0
+3609,Hai Bà Trưng,Thanh Nhàn,"Nhà ngõ, hẻm",Đã có sổ,5,4,28.0,7.0,4.0,103.57
+3613,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,3,38.0,9.75,3.9,88.16
+3630,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,4,55.0,11.0,5.0,90.91
+3647,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,9.5,3.2,86.67
+3651,Đống Đa,Thịnh Quang,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,8.0,5.0,97.5
+3657,Hai Bà Trưng,Vĩnh Tuy,"Nhà ngõ, hẻm",Đã có sổ,5,4,45.0,11.0,4.1,95.56
+3679,Huyện Hoài Đức,Xã Di Trạch,"Nhà ngõ, hẻm",Đã có sổ,3,2,33.0,8.0,4.0,44.48
+3680,Tây Hồ,Thụy Khuê,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,55.0,14.0,4.0,161.82
+3700,Hà Đông,Yên Nghĩa,Nhà phố liền kề,Đã có sổ,4,4,35.0,10.0,3.5,45.71
+3714,Đống Đa,Khâm Thiên,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,30.0,8.0,4.2,86.67
+3715,Ba Đình,Kim Mã,"Nhà ngõ, hẻm",Đã có sổ,4,5,50.0,13.9,3.6,114.0
+3723,Hà Đông,Văn Quán,Nhà phố liền kề,Đã có sổ,4,4,36.0,9.0,4.0,119.44
+3746,Hà Đông,Yết Kiêu,"Nhà mặt phố, mặt tiền",Đã có sổ,3,3,33.0,10.0,3.6,93.94
+3753,Long Biên,Thượng Thanh,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,50.0,12.0,4.0,100.0
+3758,Bắc Từ Liêm,Xuân Đỉnh,"Nhà ngõ, hẻm",Đã có sổ,5,3,31.0,7.0,4.3,100.0
+3762,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,4,4,50.0,13.0,4.0,73.0
+3786,Thanh Xuân,Kim Giang,"Nhà ngõ, hẻm",Đã có sổ,4,2,47.0,11.0,4.3,75.53
+3788,Đống Đa,Trung Liệt,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,10.0,4.0,141.25
+3792,Thanh Xuân,Kim Giang,"Nhà ngõ, hẻm",Đã có sổ,4,2,47.0,11.0,4.3,75.53
+3804,Hai Bà Trưng,Bùi Thị Xuân,"Nhà ngõ, hẻm",Đã có sổ,4,5,50.0,12.0,4.0,84.0
+3805,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,3,4,30.0,10.0,3.0,80.0
+3809,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,5,4,60.0,14.0,3.5,58.33
+3824,Thanh Xuân,Khương Mai,"Nhà ngõ, hẻm",Đã có sổ,4,3,40.0,8.0,5.0,150.0
+3829,Đống Đa,Trung Tự,"Nhà ngõ, hẻm",Đã có sổ,5,4,36.0,9.0,4.0,88.89
+3833,Ba Đình,Ngọc Hà,"Nhà ngõ, hẻm",Đã có sổ,5,4,33.0,8.0,4.0,116.67
+3850,Hoàng Mai,Thanh Trì,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,10.0,4.0,75.0
+3863,Nam Từ Liêm,Đại Mỗ,"Nhà ngõ, hẻm",Đã có sổ,3,4,38.0,11.0,3.5,64.47
+3869,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,8.0,4.0,55.63
+3876,Đống Đa,Hàng Bột,"Nhà ngõ, hẻm",Đã có sổ,4,3,40.0,5.8,7.0,67.5
+3901,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,4,45.0,11.0,4.0,93.33
+3902,Hà Đông,Phú La,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,10.2,4.0,82.22
+3904,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,4,4,49.0,11.0,4.5,97.96
+3915,Huyện Hoài Đức,Xã La Phù,"Nhà ngõ, hẻm",Đã có sổ,3,2,33.0,8.0,4.0,36.3
+3927,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,36.0,4.0,3.6,43.06
+3934,Ba Đình,Điện Biên,"Nhà ngõ, hẻm",Đã có sổ,4,2,26.0,7.0,3.5,157.69
+3942,Đống Đa,Trung Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,9.5,3.85,97.14
+3967,Nam Từ Liêm,Phương Canh,"Nhà ngõ, hẻm",Đã có sổ,5,3,32.0,9.0,3.5,82.81
+3979,Nam Từ Liêm,Phương Canh,"Nhà ngõ, hẻm",Đã có sổ,5,3,32.0,8.0,4.0,82.81
+4001,Nam Từ Liêm,Phương Canh,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,9.0,3.5,73.44
+4011,Nam Từ Liêm,Phương Canh,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,8.0,4.0,76.56
+4025,Bắc Từ Liêm,Cổ Nhuế 2,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,8.0,4.5,101.43
+4035,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,9.0,3.6,45.63
+4036,Huyện Thanh Trì,Xã Tam Hiệp,"Nhà ngõ, hẻm",Đã có sổ,5,3,31.0,9.0,4.0,98.39
+4043,Hoàng Mai,Tương Mai,"Nhà ngõ, hẻm",Đã có sổ,5,3,40.0,9.0,4.0,72.5
+4045,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,9.0,3.5,55.63
+4051,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,9.0,3.5,71.94
+4059,Hoàng Mai,Giáp Bát,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.0,7.0,5.0,76.47
+4074,Hai Bà Trưng,Trương Định,"Nhà ngõ, hẻm",Đã có sổ,5,5,42.0,12.0,4.0,100.0
+4078,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,9.0,3.8,85.0
+4081,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,9.0,3.5,56.67
+4083,Bắc Từ Liêm,Cổ Nhuế 2,"Nhà ngõ, hẻm",Đã có sổ,4,4,32.0,7.5,4.6,68.75
+4093,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,9.0,4.0,48.0
+4094,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,10.0,3.5,40.0
+4107,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,4,3,38.0,10.0,3.8,61.97
+4126,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,5,3,38.0,9.0,4.3,84.21
+4137,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,5,3,31.0,7.8,3.5,82.26
+4146,Nam Từ Liêm,Xuân Phương,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,10.0,3.5,88.57
+4186,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,39.0,10.0,4.0,42.31
+4199,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,11.0,3.8,41.25
+4216,Hà Đông,Mộ Lao,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,40.0,10.0,4.0,95.0
+4230,Hà Đông,Mộ Lao,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,10.2,3.8,95.0
+4239,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,5,3,31.0,9.0,3.5,47.74
+4243,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.0,10.0,3.4,45.59
+4278,Cầu Giấy,Quan Hoa,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,7.0,5.0,97.14
+4281,Nam Từ Liêm,Xuân Phương,"Nhà ngõ, hẻm",Đã có sổ,4,3,33.0,10.0,3.6,80.3
+4286,Hà Đông,Yết Kiêu,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,30.0,10.0,3.0,103.33
+4293,Tây Hồ,Bưởi,"Nhà ngõ, hẻm",Đã có sổ,4,4,32.0,9.0,3.5,90.63
+4295,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,3,31.0,7.8,3.5,72.58
+4313,Bắc Từ Liêm,Cổ Nhuế 1,"Nhà ngõ, hẻm",Đã có sổ,3,4,70.0,13.0,4.0,34.29
+4315,Tây Hồ,Thụy Khuê,"Nhà ngõ, hẻm",Đã có sổ,4,3,26.0,7.0,3.8,111.54
+4316,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,36.0,10.0,3.6,43.33
+4321,Hà Đông,Hà Cầu,"Nhà ngõ, hẻm",Đã có sổ,5,4,38.0,10.0,3.8,81.58
+4326,Hà Đông,Văn Quán,"Nhà ngõ, hẻm",Đã có sổ,5,5,40.0,10.0,4.0,102.0
+4340,Nam Từ Liêm,Xuân Phương,"Nhà ngõ, hẻm",Đã có sổ,5,3,31.0,9.0,3.5,83.87
+4346,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,4,34.0,9.7,3.6,87.65
+4354,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,10.0,3.5,44.29
+4365,Long Biên,Việt Hưng,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,58.0,11.74,3.87,102.59
+4376,Hà Đông,Kiến Hưng,"Nhà ngõ, hẻm",Đã có sổ,4,4,38.0,10.0,3.8,61.84
+4397,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,5,4,45.0,9.0,5.0,106.67
+4422,Long Biên,Long Biên,"Nhà ngõ, hẻm",Đã có sổ,3,4,40.0,6.0,7.0,142.5
+4433,Hoàng Mai,Lĩnh Nam,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,7.0,5.0,71.43
+4434,Hà Đông,Quang Trung,"Nhà ngõ, hẻm",Đã có sổ,4,3,52.0,11.0,5.0,63.46
+4441,Huyện Thanh Trì,Xã Tam Hiệp,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,40.0,10.0,4.0,57.5
+4453,Hoàng Mai,Lĩnh Nam,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,33.0,11.0,3.0,74.24
+4514,Hà Đông,Văn Quán,"Nhà ngõ, hẻm",Đã có sổ,5,5,40.0,10.2,3.9,102.0
+4546,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,6,3,33.0,10.0,3.3,103.03
+4557,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,4,3,40.0,10.0,4.0,122.5
+4581,Hoàng Mai,Hoàng Văn Thụ,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,10.0,4.0,76.25
+4587,Hoàng Mai,Mai Động,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,8.0,4.8,101.67
+4608,Đống Đa,Hàng Bột,"Nhà ngõ, hẻm",Đã có sổ,5,2,22.0,4.4,5.0,100.0
+4618,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,8.5,4.0,81.43
+4619,Cầu Giấy,Quan Hoa,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,48.0,7.0,4.0,133.33
+4642,Tây Hồ,Thụy Khuê,"Nhà ngõ, hẻm",Đã có sổ,6,4,34.0,7.0,5.0,76.47
+4643,Hai Bà Trưng,Đồng Tâm,"Nhà ngõ, hẻm",Đã có sổ,5,3,34.0,10.0,3.4,85.29
+4660,Hai Bà Trưng,Bách Khoa,"Nhà ngõ, hẻm",Đã có sổ,5,5,40.0,10.0,4.0,112.5
+4668,Thanh Xuân,Kim Giang,"Nhà mặt phố, mặt tiền",Đã có sổ,6,5,34.0,11.0,3.2,161.76
+4682,Ba Đình,Đội Cấn,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,31.0,6.0,5.0,80.65
+4687,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,4,5,47.0,14.0,3.5,75.53
+4689,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,3,3,32.0,13.0,2.5,100.0
+4691,Long Biên,Phúc Đồng,"Nhà ngõ, hẻm",Đã có sổ,4,3,50.0,12.1,4.1,92.0
+4721,Nam Từ Liêm,Mỹ Đình 1,"Nhà ngõ, hẻm",Đã có sổ,5,3,32.0,10.0,3.2,107.81
+4723,Cầu Giấy,Yên Hoà,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,11.0,4.0,86.67
+4728,Long Biên,Long Biên,"Nhà ngõ, hẻm",Đã có sổ,4,4,50.0,12.5,4.0,78.0
+4743,Hoàng Mai,Hoàng Liệt,"Nhà ngõ, hẻm",Đã có sổ,4,4,31.0,10.0,4.0,74.19
+4744,Đống Đa,Hàng Bột,"Nhà ngõ, hẻm",Đã có sổ,4,3,33.0,11.0,3.0,69.7
+4759,Hoàng Mai,Yên Sở,"Nhà ngõ, hẻm",Đã có sổ,4,3,47.0,7.0,7.0,56.38
+4773,Nam Từ Liêm,Phương Canh,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,5.0,6.0,81.67
+4790,Thanh Xuân,Thượng Đình,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,10.0,3.5,105.71
+4791,Long Biên,Việt Hưng,"Nhà ngõ, hẻm",Đã có sổ,5,4,60.0,15.0,4.0,99.17
+4794,Ba Đình,Vĩnh Phúc,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,9.0,3.7,89.06
+4798,Hai Bà Trưng,Bách Khoa,"Nhà mặt phố, mặt tiền",Đã có sổ,3,2,24.0,6.0,4.0,74.58
+4804,Ba Đình,Ngọc Khánh,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,11.0,3.8,96.25
+4811,Tây Hồ,Yên Phụ,Nhà phố liền kề,Đã có sổ,5,3,45.0,9.0,5.0,144.44
+4812,Huyện Gia Lâm,Xã Đông Dư,"Nhà ngõ, hẻm",Đã có sổ,3,2,30.0,6.0,5.0,50.27
+4813,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,6.0,5.0,70.0
+4815,Thanh Xuân,Thượng Đình,"Nhà ngõ, hẻm",Đã có sổ,4,4,36.0,9.0,4.1,93.06
+4831,Nam Từ Liêm,Mỹ Đình 1,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,32.0,8.0,4.0,110.94
+4833,Long Biên,Đức Giang,Nhà biệt thự,Đã có sổ,4,5,58.0,15.0,4.0,102.59
+4839,Cầu Giấy,Nghĩa Đô,"Nhà ngõ, hẻm",Đã có sổ,4,4,50.0,12.0,4.0,130.0
+4841,Cầu Giấy,Dịch Vọng,"Nhà ngõ, hẻm",Đã có sổ,5,4,60.0,14.0,4.5,75.0
+4846,Đống Đa,Văn Miếu,"Nhà ngõ, hẻm",Đã có sổ,5,2,25.0,5.0,5.0,106.0
+4847,Thanh Xuân,Khương Đình,"Nhà mặt phố, mặt tiền",Đã có sổ,4,5,60.0,12.0,5.0,148.33
+4858,Hà Đông,Văn Quán,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,9.0,4.0,64.29
+4861,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,4,31.0,6.0,5.2,103.23
+4874,Long Biên,Ngọc Lâm,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,6.5,5.4,80.0
+4884,Long Biên,Thạch Bàn,"Nhà ngõ, hẻm",Đã có sổ,5,4,30.0,7.6,4.0,71.67
+4911,Hoàng Mai,Thịnh Liệt,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,10.0,4.5,62.22
+4913,Thanh Xuân,Thanh Xuân Trung,"Nhà ngõ, hẻm",Đã có sổ,5,5,34.0,8.0,4.0,104.41
+4919,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,9.0,3.4,113.33
+4927,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,10.0,3.5,40.0
+4943,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,4,30.0,6.0,6.0,111.67
+4949,Đống Đa,Phương Mai,"Nhà ngõ, hẻm",Đã có sổ,3,2,33.0,11.0,3.1,96.97
+4972,Hoàng Mai,Mai Động,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,9.0,4.0,61.43
+4976,Đống Đa,Quang Trung,"Nhà ngõ, hẻm",Giấy tờ khác,5,4,33.0,9.0,3.1,106.06
+4979,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,10.0,3.5,82.86
+5012,Hà Đông,Mộ Lao,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,48.0,15.0,3.5,104.17
+5049,Long Biên,Long Biên,"Nhà ngõ, hẻm",Đã có sổ,5,3,65.0,11.6,3.9,87.69
+5055,Hà Đông,Hà Cầu,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,30.0,10.0,3.2,76.67
+5060,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,3,3,33.0,8.2,4.0,49.39
+5064,Hà Đông,Hà Cầu,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,30.0,10.0,3.2,76.67
+5069,Cầu Giấy,Trung Hoà,"Nhà ngõ, hẻm",Đã có sổ,5,5,47.0,12.0,3.8,127.66
+5089,Thanh Xuân,Khương Mai,"Nhà ngõ, hẻm",Đã có sổ,4,3,46.0,11.5,4.0,100.0
+5096,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,10.0,3.5,84.29
+5111,Hà Đông,La Khê,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,42.0,12.0,3.5,82.14
+5123,Hoàng Mai,Thịnh Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,3,28.0,9.0,3.2,105.36
+5127,Hoàng Mai,Thịnh Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,3,28.0,9.0,3.2,105.36
+5135,Hoàng Mai,Đại Kim,"Nhà ngõ, hẻm",Đã có sổ,5,3,28.0,9.0,3.0,83.93
+5140,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,4,5,50.0,12.0,4.0,72.0
+5150,Đống Đa,Khâm Thiên,"Nhà ngõ, hẻm",Đã có sổ,4,3,25.0,6.0,4.7,88.0
+5152,Nam Từ Liêm,Mỹ Đình 1,"Nhà ngõ, hẻm",Đã có sổ,5,4,51.0,13.0,4.0,76.47
+5153,Hoàng Mai,Thịnh Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,9.0,3.5,83.33
+5161,Hoàng Mai,Thanh Trì,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,30.0,10.0,3.0,126.67
+5181,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,8.0,4.0,84.29
+5195,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,5,3,25.0,8.0,3.0,74.0
+5205,Hai Bà Trưng,Thanh Lương,"Nhà ngõ, hẻm",Đã có sổ,5,3,28.0,8.0,3.2,105.36
+5206,Hoàng Mai,Đại Kim,"Nhà ngõ, hẻm",Đã có sổ,5,3,28.0,9.0,3.0,83.93
+5208,Thanh Xuân,Phương Liệt,"Nhà ngõ, hẻm",Đã có sổ,6,4,40.0,8.0,5.2,131.25
+5217,Hà Đông,Văn Quán,"Nhà ngõ, hẻm",Đã có sổ,4,4,55.0,14.0,4.0,105.45
+5225,Hà Đông,Phú Lương,"Nhà ngõ, hẻm",Đã có sổ,4,4,38.0,10.0,3.8,42.89
+5251,Tây Hồ,Thụy Khuê,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,8.0,4.0,131.43
+5269,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,3,2,44.0,7.0,6.2,79.55
+5286,Tây Hồ,Thụy Khuê,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,8.0,4.0,132.86
+5287,Cầu Giấy,Trung Hoà,"Nhà ngõ, hẻm",Đã có sổ,3,4,44.0,13.0,4.0,152.27
+5322,Nam Từ Liêm,Đại Mỗ,"Nhà ngõ, hẻm",Đã có sổ,4,3,42.0,10.0,4.0,64.29
+5323,Hoàng Mai,Mai Động,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,6.0,5.9,90.0
+5324,Hoàng Mai,Hoàng Văn Thụ,"Nhà ngõ, hẻm",Đã có sổ,5,3,33.0,7.0,5.0,93.94
+5328,Nam Từ Liêm,Tây Mỗ,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,11.0,3.5,60.0
+5330,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,4,4,36.0,7.0,5.0,75.0
+5338,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,3,2,34.0,10.0,3.3,85.29
+5352,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,4,4,36.0,7.0,5.0,75.0
+5361,Hoàng Mai,Vĩnh Hưng,"Nhà ngõ, hẻm",Đã có sổ,4,2,21.0,8.0,3.0,71.43
+5391,Hoàng Mai,Lĩnh Nam,"Nhà ngõ, hẻm",Đã có sổ,3,2,34.0,10.0,3.3,85.29
+5396,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,5,3,25.0,8.0,3.0,74.0
+5412,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,7.5,4.0,78.33
+5417,Đống Đa,Khâm Thiên,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,11.0,4.0,88.89
+5425,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,6.0,5.0,78.33
+5440,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,4,4,52.0,14.0,3.8,78.85
+5447,Hoàng Mai,Lĩnh Nam,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,7.0,4.1,71.67
+5448,Cầu Giấy,Nghĩa Đô,"Nhà ngõ, hẻm",Đã có sổ,4,3,70.0,15.4,4.5,62.86
+5489,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,4,39.0,11.2,4.0,135.9
+5496,Hoàng Mai,Đại Kim,"Nhà ngõ, hẻm",Đã có sổ,5,4,37.0,10.0,3.5,83.78
+5497,Long Biên,Thượng Thanh,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,50.0,12.5,4.0,82.0
+5513,Hoàng Mai,Giáp Bát,"Nhà ngõ, hẻm",Đã có sổ,3,2,40.0,10.0,4.0,96.25
+5523,Long Biên,Phúc Lợi,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,7.5,4.0,63.33
+5524,Nam Từ Liêm,Trung Văn,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,58.0,12.3,4.7,115.52
+5533,Hà Đông,La Khê,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,30.0,8.5,4.0,86.67
+5560,Hà Đông,Phú La,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,13.0,4.0,92.9
+5582,Đống Đa,Khâm Thiên,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,10.5,3.0,65.71
+5589,Đống Đa,Láng Thượng,"Nhà ngõ, hẻm",Đã có sổ,5,3,36.0,10.0,3.5,65.28
+5599,Ba Đình,Cống Vị,"Nhà ngõ, hẻm",Đã có sổ,4,4,31.0,10.0,3.5,101.61
+5608,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,10.0,3.5,95.71
+5614,Hoàng Mai,Đại Kim,"Nhà ngõ, hẻm",Đã có sổ,6,3,31.0,7.5,4.54,76.77
+5633,Long Biên,Việt Hưng,"Nhà ngõ, hẻm",Đã có sổ,5,4,58.0,14.0,4.0,102.59
+5651,Hà Đông,La Khê,"Nhà ngõ, hẻm",Giấy tờ khác,3,2,46.0,9.2,5.0,40.43
+5654,Đống Đa,Khương Thượng,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,11.0,3.8,117.5
+5659,Nam Từ Liêm,Mỹ Đình 1,"Nhà ngõ, hẻm",Đã có sổ,5,3,45.0,10.0,4.5,108.89
+5677,Hai Bà Trưng,Đồng Tâm,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,10.0,4.0,95.0
+5686,Hai Bà Trưng,Phố Huế,"Nhà ngõ, hẻm",Đã có sổ,5,5,40.0,7.0,5.0,85.0
+5690,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,3,3,45.0,9.0,5.0,57.78
+5691,Đống Đa,Trung Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,4,45.0,7.0,6.0,124.44
+5695,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,9.0,3.5,56.67
+5696,Nam Từ Liêm,Mỹ Đình 1,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,9.2,3.8,117.14
+5699,Cầu Giấy,Quan Hoa,"Nhà ngõ, hẻm",Đã có sổ,4,4,60.0,15.0,4.0,131.67
+5707,Hoàng Mai,Tân Mai,"Nhà ngõ, hẻm",Đã có sổ,5,2,30.0,6.0,5.0,95.0
+5710,Hai Bà Trưng,Thanh Nhàn,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,10.0,4.0,92.5
+5715,Hai Bà Trưng,Thanh Lương,"Nhà ngõ, hẻm",Đã có sổ,4,3,46.6,10.0,5.0,89.13
+5716,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,7.5,4.0,76.0
+5717,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,10.0,4.0,96.25
+5730,Hà Đông,Phú Lương,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,8.0,3.5,51.0
+5736,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,9.0,3.0,41.43
+5762,Hà Đông,Văn Quán,"Nhà ngõ, hẻm",Đã có sổ,6,4,40.0,10.0,4.0,136.25
+5767,Hà Đông,Mộ Lao,"Nhà ngõ, hẻm",Đã có sổ,3,3,44.0,15.0,3.0,115.91
+5773,Bắc Từ Liêm,Thụy Phương,"Nhà ngõ, hẻm",Đã có sổ,3,3,40.0,9.5,4.3,62.5
+5774,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,8.0,4.0,49.03
+5784,Bắc Từ Liêm,Phú Diễn,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,45.0,10.0,5.0,95.56
+5792,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,4,4,55.0,14.0,4.0,92.73
+5800,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,9.0,4.0,48.0
+5806,Hai Bà Trưng,Cầu Dền,"Nhà ngõ, hẻm",Đã có sổ,5,4,36.0,9.5,3.8,88.89
+5807,Bắc Từ Liêm,Xuân Đỉnh,"Nhà ngõ, hẻm",Đã có sổ,5,4,42.0,10.0,4.0,64.29
+5814,Nam Từ Liêm,Mỹ Đình 1,"Nhà ngõ, hẻm",Đã có sổ,5,4,39.0,11.0,3.6,93.59
+5822,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,9.0,4.0,77.14
+5824,Long Biên,Việt Hưng,"Nhà ngõ, hẻm",Đã có sổ,5,5,58.2,11.74,3.87,102.59
+5832,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,9.0,5.0,66.44
+5850,Nam Từ Liêm,Mễ Trì,"Nhà ngõ, hẻm",Đã có sổ,5,3,33.0,10.0,3.3,107.58
+5859,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,10.0,3.0,85.0
+5863,Hà Đông,Quang Trung,"Nhà ngõ, hẻm",Đã có sổ,4,4,41.0,13.0,3.2,74.39
+5869,Hoàng Mai,Giáp Bát,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,30.0,5.2,5.8,95.0
+5883,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,4,4,28.0,7.0,4.0,78.57
+5898,Huyện Hoài Đức,Xã Kim Chung,"Nhà ngõ, hẻm",Đã có sổ,3,2,34.0,9.0,4.0,43.47
+5919,Thanh Xuân,Kim Giang,"Nhà ngõ, hẻm",Đã có sổ,4,4,32.0,8.0,4.0,85.94
+5928,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,4,4,43.0,12.0,4.0,123.02
+5957,Hoàng Mai,Thịnh Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,5.0,6.0,88.33
+5965,Hà Đông,Hà Cầu,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,35.0,7.0,5.0,75.71
+5978,Nam Từ Liêm,Mỹ Đình 1,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,54.0,12.0,4.5,87.04
+5985,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,10.0,3.7,155.71
+5988,Long Biên,Đức Giang,Nhà biệt thự,Đã có sổ,5,5,58.0,12.0,4.0,102.59
+5994,Long Biên,Ngọc Thụy,"Nhà ngõ, hẻm",Đã có sổ,5,4,42.6,9.26,4.6,69.05
+6024,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,9.0,3.4,86.67
+6027,Long Biên,Long Biên,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,6.0,7.0,65.0
+6029,Long Biên,Thạch Bàn,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,5.0,6.0,76.67
+6032,Long Biên,Thạch Bàn,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,38.0,9.0,4.0,105.26
+6056,Hoàng Mai,Giáp Bát,"Nhà ngõ, hẻm",Đã có sổ,5,5,50.0,12.0,4.5,76.0
+6076,Hoàng Mai,Lĩnh Nam,"Nhà ngõ, hẻm",Đã có sổ,5,3,34.0,6.0,5.0,61.76
+6080,Đống Đa,Hàng Bột,"Nhà ngõ, hẻm",Đã có sổ,4,4,55.0,14.0,4.0,72.73
+6096,Thanh Xuân,Khương Đình,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,35.0,5.0,7.0,84.29
+6101,Hoàng Mai,Đại Kim,"Nhà ngõ, hẻm",Đã có sổ,6,4,31.0,7.0,4.7,79.03
+6105,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,10.0,3.5,50.29
+6111,Long Biên,Long Biên,"Nhà ngõ, hẻm",Đã có sổ,5,3,36.0,7.5,5.0,65.28
+6112,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,3,3,58.0,15.0,3.5,98.28
+6121,Hà Đông,Phú Lương,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.0,10.0,3.4,42.65
+6126,Cầu Giấy,Nghĩa Tân,"Nhà ngõ, hẻm",Đã có sổ,5,3,38.0,10.0,4.0,97.37
+6136,Ba Đình,Vĩnh Phúc,"Nhà ngõ, hẻm",Đã có sổ,5,3,25.0,8.0,3.3,94.0
+6149,Hà Đông,Vạn Phúc,"Nhà ngõ, hẻm",Đã có sổ,4,5,40.0,13.5,3.1,76.25
+6156,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,8.0,4.0,55.63
+6168,Cầu Giấy,Dịch Vọng,"Nhà mặt phố, mặt tiền",Đã có sổ,5,2,35.0,7.0,5.0,97.14
+6169,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,36.0,10.0,3.6,43.06
+6174,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,36.0,9.0,4.0,55.56
+6176,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,9.0,3.6,45.31
+6184,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,9.0,3.5,57.1
+6187,Ba Đình,Ngọc Hà,"Nhà ngõ, hẻm",Đã có sổ,5,3,25.0,6.0,4.0,88.0
+6215,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,5,4,38.0,10.0,3.8,92.11
+6217,Tây Hồ,Bưởi,"Nhà ngõ, hẻm",Đã có sổ,6,4,46.0,9.0,4.8,89.13
+6225,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,32.0,8.0,4.0,62.5
+6233,Đống Đa,Khâm Thiên,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,33.0,8.0,4.0,69.7
+6257,Hoàng Mai,Tân Mai,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,10.0,3.5,82.86
+6285,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,7.3,4.4,92.19
+6297,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,8.2,4.0,61.43
+6305,Ba Đình,Cống Vị,"Nhà ngõ, hẻm",Đã có sổ,3,2,35.0,6.0,6.0,114.29
+6306,Long Biên,Ngọc Thụy,"Nhà mặt phố, mặt tiền",Đã có sổ,3,4,39.4,13.2,3.0,89.74
+6315,Hai Bà Trưng,Thanh Lương,"Nhà ngõ, hẻm",Đã có sổ,4,2,35.0,8.75,4.0,68.57
+6320,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,32.0,8.0,4.0,61.88
+6325,Hà Đông,Kiến Hưng,"Nhà ngõ, hẻm",Đã có sổ,5,4,33.0,10.0,3.5,60.61
+6333,Ba Đình,Kim Mã,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,10.0,4.0,92.5
+6344,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,4,2,31.5,9.0,4.0,46.77
+6358,Hoàng Mai,Thịnh Liệt,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,12.0,3.5,61.11
+6363,Bắc Từ Liêm,Phú Diễn,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.5,5.0,6.5,72.06
+6369,Đống Đa,Phương Liên,"Nhà ngõ, hẻm",Đã có sổ,3,2,23.0,7.5,3.0,121.74
+6379,Nam Từ Liêm,Đại Mỗ,"Nhà ngõ, hẻm",Đã có sổ,4,3,31.0,7.0,4.4,79.03
+6380,Hà Đông,Phú Lương,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,33.0,9.0,3.6,42.42
+6382,Hà Đông,Dương Nội,"Nhà ngõ, hẻm",Đã có sổ,5,4,31.0,10.0,3.5,61.29
+6404,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,11.2,4.0,88.89
+6419,Hà Đông,Phú Lãm,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,33.0,9.0,3.5,45.45
+6431,Đống Đa,Khương Thượng,"Nhà ngõ, hẻm",Đã có sổ,5,3,27.0,7.0,4.0,122.22
+6440,Hoàng Mai,Tương Mai,"Nhà ngõ, hẻm",Đã có sổ,5,3,32.0,8.0,4.0,78.13
+6445,Đống Đa,Láng Thượng,"Nhà ngõ, hẻm",Đã có sổ,5,3,32.0,6.0,5.3,103.13
+6489,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,3,3,36.0,10.0,3.6,44.17
+6490,Huyện Hoài Đức,Xã Vân Canh,"Nhà ngõ, hẻm",Đã có sổ,4,3,33.0,6.09,5.85,66.06
+6503,Hoàng Mai,Vĩnh Hưng,"Nhà mặt phố, mặt tiền",Đã có sổ,3,3,36.0,9.0,4.0,133.33
+6512,Hai Bà Trưng,Vĩnh Tuy,"Nhà ngõ, hẻm",Đang chờ sổ,4,2,30.0,7.5,4.0,53.33
+6519,Hà Đông,Văn Quán,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,38.0,10.5,3.5,57.89
+6532,Đống Đa,Trung Tự,"Nhà ngõ, hẻm",Đã có sổ,5,3,50.0,12.5,4.0,81.0
+6546,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,11.25,4.0,98.89
+6583,Cầu Giấy,Yên Hoà,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,13.5,3.6,75.56
+6587,Hai Bà Trưng,Đồng Tâm,"Nhà ngõ, hẻm",Đã có sổ,3,2,17.0,5.0,3.0,76.47
+6591,Hoàng Mai,Vĩnh Hưng,"Nhà ngõ, hẻm",Đã có sổ,4,3,36.0,8.8,4.2,83.06
+6592,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,4,4,49.0,9.0,5.3,61.22
+6604,Hoàng Mai,Vĩnh Hưng,"Nhà ngõ, hẻm",Đã có sổ,4,3,36.0,8.5,4.2,83.06
+6634,Nam Từ Liêm,Mỹ Đình 2,"Nhà ngõ, hẻm",Đã có sổ,5,2,35.0,12.0,3.1,82.86
+6691,Hai Bà Trưng,Trương Định,"Nhà ngõ, hẻm",Đã có sổ,4,4,58.0,14.0,4.15,89.66
+6751,Hoàng Mai,Hoàng Văn Thụ,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,45.0,12.0,4.0,144.44
+6777,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,3,37.0,10.0,4.0,77.03
+6797,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,4,25.0,7.0,3.0,92.0
+6814,Đống Đa,Thịnh Quang,"Nhà mặt phố, mặt tiền",Đã có sổ,4,2,25.0,8.0,3.2,76.0
+6828,Thanh Xuân,Kim Giang,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,33.0,8.0,4.0,87.88
+6843,Cầu Giấy,Yên Hoà,"Nhà ngõ, hẻm",Đã có sổ,5,4,50.0,7.5,6.2,106.0
+6847,Hà Đông,Phú Lương,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.0,10.0,3.4,45.88
+6852,Cầu Giấy,Nghĩa Đô,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,45.0,11.0,4.0,140.0
+6864,Cầu Giấy,Yên Hoà,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,7.0,4.5,94.29
+6885,Thanh Xuân,Thanh Xuân Nam,"Nhà ngõ, hẻm",Đã có sổ,4,5,44.0,11.0,4.0,81.82
+6889,Hoàng Mai,Yên Sở,"Nhà ngõ, hẻm",Đã có sổ,4,3,47.0,8.0,6.0,55.32
+6945,Hoàng Mai,Thanh Trì,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,30.0,6.0,5.0,126.67
+6958,Nam Từ Liêm,Đại Mỗ,"Nhà ngõ, hẻm",Đã có sổ,5,5,42.0,10.0,4.2,61.9
+6994,Thanh Xuân,Thanh Xuân Trung,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,60.0,10.0,6.0,150.0
+6995,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,10.0,4.0,47.0
+7004,Hà Đông,Dương Nội,"Nhà ngõ, hẻm",Đã có sổ,5,3,33.0,8.0,4.0,80.3
+7008,Hoàng Mai,Mai Động,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,6.0,5.9,90.0
+7018,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,3,4,58.0,10.0,6.0,29.66
+7023,Huyện Hoài Đức,Xã An Khánh,"Nhà ngõ, hẻm",Đã có sổ,3,3,31.0,10.0,3.2,48.39
+7056,Thanh Xuân,Nhân Chính,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,43.0,9.0,4.7,87.21
+7062,Hoàng Mai,Giáp Bát,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,9.0,3.6,80.0
+7067,Huyện Gia Lâm,Thị trấn Yên Viên,"Nhà ngõ, hẻm",Đã có sổ,3,3,72.0,14.4,5.16,86.11
+7069,Cầu Giấy,Quan Hoa,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,9.0,4.5,85.0
+7070,Hà Đông,Đồng Mai,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.6,10.0,3.3,45.31
+7075,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,3,3,35.0,9.5,3.3,47.14
+7084,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,32.0,10.0,3.2,50.0
+7091,Đống Đa,Trung Phụng,"Nhà ngõ, hẻm",Đã có sổ,4,4,33.0,9.0,3.5,83.33
+7133,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,5,5,40.0,11.0,3.7,111.25
+7170,Thanh Xuân,Kim Giang,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,48.0,12.0,4.0,62.5
+7172,Hoàng Mai,Giáp Bát,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,10.0,4.0,79.75
+7206,Hoàng Mai,Tân Mai,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,37.0,11.0,3.4,71.62
+7212,Thanh Xuân,Khương Đình,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,32.0,8.0,4.0,89.06
+7218,Hà Đông,La Khê,"Nhà mặt phố, mặt tiền",Đã có sổ,3,3,31.0,11.0,3.0,109.03
+7224,Hoàng Mai,Thịnh Liệt,"Nhà ngõ, hẻm",Đã có sổ,4,3,36.0,9.0,4.0,100.0
+7237,Ba Đình,Ngọc Khánh,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,9.0,4.0,104.29
+7255,Hà Đông,Phú Lương,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,10.0,3.5,42.86
+7268,Ba Đình,Liễu Giai,"Nhà ngõ, hẻm",Đã có sổ,5,5,40.0,10.0,4.0,113.75
+7308,Hai Bà Trưng,Bạch Mai,"Nhà ngõ, hẻm",Đã có sổ,4,3,42.0,10.8,4.0,61.9
+7309,Hoàng Mai,Thịnh Liệt,"Nhà ngõ, hẻm",Đã có sổ,4,4,42.0,10.2,4.0,67.86
+7310,Ba Đình,Phúc Xá,"Nhà ngõ, hẻm",Đã có sổ,4,3,44.0,6.0,7.0,61.36
+7317,Thanh Xuân,Thanh Xuân Nam,"Nhà ngõ, hẻm",Đã có sổ,4,5,44.0,11.0,4.0,81.82
+7327,Đống Đa,Hàng Bột,"Nhà ngõ, hẻm",Đã có sổ,5,2,30.0,10.0,3.0,103.33
+7353,Cầu Giấy,Nghĩa Đô,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,50.0,12.0,4.0,88.0
+7379,Thanh Xuân,Khương Mai,"Nhà ngõ, hẻm",Đã có sổ,4,4,46.0,12.0,4.0,100.0
+7402,Đống Đa,Trung Tự,"Nhà ngõ, hẻm",Đã có sổ,5,4,36.0,9.0,4.0,111.11
+7411,Đống Đa,Láng Thượng,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,9.0,3.8,123.33
+7433,Cầu Giấy,Yên Hoà,"Nhà ngõ, hẻm",Đã có sổ,5,4,43.0,7.2,6.0,132.56
+7440,Nam Từ Liêm,Mỹ Đình 2,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,6.6,4.6,106.67
+7443,Bắc Từ Liêm,Phú Diễn,"Nhà ngõ, hẻm",Đã có sổ,3,3,30.0,7.5,4.0,60.0
+7457,Hai Bà Trưng,Vĩnh Tuy,"Nhà ngõ, hẻm",Đã có sổ,4,3,23.0,8.0,3.0,79.57
+7459,Nam Từ Liêm,Trung Văn,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,42.0,12.0,3.5,119.05
+7460,Nam Từ Liêm,Đại Mỗ,"Nhà ngõ, hẻm",Đã có sổ,4,4,45.0,13.0,3.4,62.22
+7466,Tây Hồ,Xuân La,"Nhà ngõ, hẻm",Đã có sổ,5,4,30.0,8.0,4.1,116.67
+7477,Ba Đình,Kim Mã,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,31.0,7.0,5.0,90.32
+7492,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,35.0,10.0,3.5,47.14
+7495,Bắc Từ Liêm,Minh Khai,"Nhà mặt phố, mặt tiền",Đã có sổ,5,4,38.0,10.0,4.0,100.0
+7505,Hoàng Mai,Hoàng Văn Thụ,"Nhà ngõ, hẻm",Đã có sổ,4,3,30.0,8.0,4.9,101.67
+7511,Hoàng Mai,Hoàng Liệt,"Nhà ngõ, hẻm",Đã có sổ,4,4,34.0,10.0,4.0,68.24
+7550,Ba Đình,Phúc Xá,"Nhà mặt phố, mặt tiền",Đã có sổ,3,4,50.0,15.0,3.3,103.0
+7551,Nam Từ Liêm,Mễ Trì,"Nhà ngõ, hẻm",Đã có sổ,5,3,33.0,9.0,3.6,81.82
+7580,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,3,3,33.0,8.0,4.0,49.39
+7588,Hoàng Mai,Tân Mai,"Nhà ngõ, hẻm",Đã có sổ,5,4,30.0,9.0,3.5,100.0
+7591,Hà Đông,Dương Nội,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,38.0,11.0,3.5,59.74
+7599,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,5,35.0,9.0,4.0,100.0
+7602,Hà Đông,Nguyễn Trãi,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,38.0,10.0,4.0,73.68
+7613,Hà Đông,Mộ Lao,"Nhà ngõ, hẻm",Đã có sổ,5,4,31.0,7.8,4.0,93.23
+7616,Hà Đông,Hà Cầu,"Nhà mặt phố, mặt tiền",Đã có sổ,4,5,36.0,9.0,4.0,72.22
+7617,Hai Bà Trưng,Quỳnh Mai,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,10.5,3.8,85.0
+7626,Thanh Xuân,Khương Đình,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,8.2,3.9,95.71
+7629,Hoàng Mai,Thanh Trì,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,10.0,4.0,62.5
+7635,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,5,4,32.0,8.0,4.0,73.44
+7655,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,3,3,33.0,10.0,3.3,72.73
+7656,Ba Đình,Vĩnh Phúc,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,11.5,4.0,145.0
+7659,Bắc Từ Liêm,Xuân Đỉnh,"Nhà ngõ, hẻm",Đã có sổ,6,4,40.0,9.0,4.5,80.0
+7663,Hà Đông,La Khê,"Nhà ngõ, hẻm",Đã có sổ,5,3,35.0,9.0,4.0,84.29
+7666,Đống Đa,Khâm Thiên,"Nhà ngõ, hẻm",Đã có sổ,4,3,22.0,11.0,2.1,81.82
+7679,Nam Từ Liêm,Phương Canh,"Nhà mặt phố, mặt tiền",Đã có sổ,4,3,31.0,5.4,5.8,79.03
+7707,Hà Đông,La Khê,Nhà phố liền kề,Đã có sổ,5,3,52.0,12.0,4.0,102.88
+7723,Hai Bà Trưng,Minh Khai,"Nhà ngõ, hẻm",Đã có sổ,5,4,43.0,11.0,4.0,86.05
+7724,Thanh Xuân,Kim Giang,"Nhà ngõ, hẻm",Đã có sổ,5,4,35.0,6.0,6.0,117.14
+7743,Đống Đa,Láng Hạ,"Nhà ngõ, hẻm",Đã có sổ,5,4,30.0,10.0,3.5,125.0
+7745,Thanh Xuân,Khương Trung,"Nhà ngõ, hẻm",Đã có sổ,5,3,30.0,9.0,4.0,95.0
+7783,Đống Đa,Hàng Bột,"Nhà mặt phố, mặt tiền",Đã có sổ,5,3,30.0,5.0,6.0,131.67
+7808,Hà Đông,Yên Nghĩa,"Nhà ngõ, hẻm",Đã có sổ,4,3,34.0,10.0,3.4,49.41
+7835,Hoàng Mai,Vĩnh Hưng,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,8.0,5.0,53.75
+7836,Đống Đa,Trung Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,4,60.0,12.0,5.0,158.33
+7838,Cầu Giấy,Dịch Vọng Hậu,"Nhà ngõ, hẻm",Đã có sổ,5,5,50.0,10.5,4.8,86.0
+7855,Đống Đa,Trung Liệt,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,8.0,5.0,91.25
+7858,Thanh Xuân,Nhân Chính,"Nhà ngõ, hẻm",Đã có sổ,5,4,52.0,13.0,4.0,100.0
+7859,Long Biên,Bồ Đề,"Nhà mặt phố, mặt tiền",Đã có sổ,5,5,47.0,12.0,4.0,102.13
+7868,Huyện Hoài Đức,Xã Đông La,"Nhà ngõ, hẻm",Đã có sổ,3,3,34.0,10.0,3.4,38.82
+7870,Hai Bà Trưng,Thanh Lương,"Nhà ngõ, hẻm",Đã có sổ,4,4,38.0,9.5,4.0,75.0
+7876,Hà Đông,Đồng Mai,"Nhà ngõ, hẻm",Đã có sổ,3,3,32.0,8.8,3.6,37.19
+7880,Cầu Giấy,Yên Hoà,"Nhà ngõ, hẻm",Đã có sổ,3,2,35.0,11.0,3.0,80.0
+7884,Hoàng Mai,Định Công,"Nhà ngõ, hẻm",Đã có sổ,5,4,46.0,13.0,3.5,71.74
+7889,Hoàng Mai,Đại Kim,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,45.0,9.0,5.0,115.56
+7891,Hà Đông,Văn Quán,"Nhà mặt phố, mặt tiền",Đã có sổ,4,4,36.0,9.0,4.0,72.22
+7899,Hoàng Mai,Lĩnh Nam,"Nhà ngõ, hẻm",Đã có sổ,4,4,47.0,12.0,3.9,93.62
+7903,Thanh Xuân,Kim Giang,"Nhà ngõ, hẻm",Đã có sổ,5,4,40.0,12.0,3.6,100.0
+7920,Thanh Xuân,Kim Giang,"Nhà ngõ, hẻm",Đã có sổ,4,4,40.0,12.0,3.6,100.0
+7933,Hà Đông,Phú Lãm,"Nhà ngõ, hẻm",Đã có sổ,4,4,35.0,10.0,3.5,49.14
+7937,Cầu Giấy,Nghĩa Đô,"Nhà ngõ, hẻm",Đã có sổ,4,2,32.0,10.0,3.2,100.0
